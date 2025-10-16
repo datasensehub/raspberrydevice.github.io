@@ -19,5 +19,14 @@ Give it a star and share it with others — so more people can benefit from this
 
 🔗 Get Started
 
-👉 Visit RaspberryDevice.com
- to claim your free subdomain today.
+👉 Visit **RaspberryDevice.com** to claim your free subdomain today.
+
+ ---
+💛 Support This Project
+
+If you find this project helpful, consider supporting it with a small Bitcoin donation.  
+Every satoshi helps keep the project alive and growing. Thank you! 🙌
+
+☕ Donate Bitcoin
+
+📬 **bitcoin:BC1QS2LHFW37QAWCDWF6N5F9EQCE5E2CEL2SW8KWAX**
