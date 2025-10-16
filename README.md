@@ -27,6 +27,6 @@ Give it a star and share it with others — so more people can benefit from this
 If you find this project helpful, consider supporting it with a small Bitcoin donation.  
 Every satoshi helps keep the project alive and growing. Thank you! 🙌
 
-☕ Donate Bitcoin
+[![Donate with Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-orange?logo=bitcoin&style=for-the-badge)](bitcoin:BC1QS2LHFW37QAWCDWF6N5F9EQCE5E2CEL2SW8KWAX)
 
 📬 **bitcoin:BC1QS2LHFW37QAWCDWF6N5F9EQCE5E2CEL2SW8KWAX**
